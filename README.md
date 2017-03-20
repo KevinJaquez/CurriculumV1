@@ -1,2 +1,2 @@
-# CurriculumV1
+# Curriculum
 Codigo html
